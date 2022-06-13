@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe2e2E6fA848A7f8b68602c1F486E7A40a6726B40",
+  "SCAN_LINK": "https://polygonscan.com/token/0xe2e2E6fA848A7f8b68602c1F486E7A40a6726B40",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "GeneKanji",
+  "SYMBOL": "KGK",
+  "MAX_SUPPLY": 30,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 3,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/genekanji",
+  "SHOW_BACKGROUND": true
+}
